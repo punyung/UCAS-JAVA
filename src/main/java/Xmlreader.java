@@ -2,6 +2,7 @@
 学号：202128016715003
 姓名：潘榕
 编写可读取xml文档的程序，通过meaven进行包管理
+github仓库：https://github.com/punyung/UCAS-JAVA/tree/master/src/main/java
  */
 
 
@@ -46,4 +47,14 @@ public class Xmlreader {
     }
 }
 
-
+/*
+运行结果：
+属性名:id--属性值:001
+节点名:title--节点值:Harry Potter
+节点名:author--节点值:J K. Rowling
+节点名:price--节点值:$50.2
+属性名:id--属性值:002
+节点名:title--节点值:Learning XML
+节点名:author--节点值:Erik T. Ray
+节点名:price--节点值:$90
+ */
